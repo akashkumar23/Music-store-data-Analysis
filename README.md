@@ -8,36 +8,36 @@
 
 ## Output
 
-![Alt text](working on Post/1.png)
+![Alt text](images/1.png)
 
-![Alt text](working on Post/2.png)
+![Alt text](images/2.png)
 
-![Alt text](working on Post/3.png)
+![Alt text](images/3.png)
 
-![Alt text](working on Post/4.png)
+![Alt text](images/4.png)
 
-![Alt text](working on Post/5.png)
+![Alt text](images/5.png)
 
-![Alt text](working on Post/6.png)
+![Alt text](images/6.png)
 
-![Alt text](working on Post/7.png)
+![Alt text](images/7.png)
 
-![Alt text](working on Post/8.png)
+![Alt text](images/8.png)
 
-![Alt text](working on Post/9.png)
+![Alt text](images/9.png)
 
-![Alt text](working on Post/10.png)
+![Alt text](images/10.png)
 
-![Alt text](working on Post/11.png)
+![Alt text](images/11.png)
 
-![Alt text](working on Post/12.png)
+![Alt text](images/12.png)
 
-![Alt text](working on Post/13.png)
+![Alt text](images/13.png)
 
-![Alt text](working on Post/14.png)
+![Alt text](images/14.png)
 
-![Alt text](working on Post/15.png)
+![Alt text](images/15.png)
 
-![Alt text](working on Post/16.png)
+![Alt text](images/16.png)
 
 
